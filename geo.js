@@ -13,3 +13,4 @@ function geo_exito(posicion)
 
 
 geo.getCurrentPosition(geo_exito,geo_error,opciones);
+bdfbdnddggmbdndnchhh
