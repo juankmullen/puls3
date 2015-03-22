@@ -20,12 +20,9 @@ function agregarPost()
 	var url=$url.val(),
 		titulo=$titulo.val(),
 		$clone=$post.clone();
-
-
 		$clone.find(".titulo_item a")
 			.text(titulo)
 			.attr('href',url);
-
         	$clone.hide();
 
         	$list.prepend($clone);
