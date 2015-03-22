@@ -9,8 +9,9 @@ function geo_error()
 
 function geo_exito(posicion)
 { console.log(posicion);
-}
 
+}
+leseras varias
+afanf
 
 geo.getCurrentPosition(geo_exito,geo_error,opciones);
-bdfbdnddggmbdndnchhh
